@@ -38,6 +38,7 @@ You can view and manage inventory items via the web interface (add/update/remove
 ## 📂 Project Structure
 
 hospital-inventory/
+
 ├── static/ # CSS, JavaScript, images, and other static files
 
 ├── templates/ # HTML templates rendered by backend
